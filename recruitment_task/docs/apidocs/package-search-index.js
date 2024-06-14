@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.getint.recruitment_task"},{"l":"io.getint.recruitment_task.models"},{"l":"io.getint.recruitment_task.services"},{"l":"io.getint.recruitment_task.utils"}];updateSearchResults();
